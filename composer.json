@@ -1,0 +1,12 @@
+{
+    "name": "rexolve/interfaces",
+    "description": "Rexolve shared interfaces",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rexolve\\Interfaces\\": "src/"
+        }
+    },
+    "require": {}
+}
